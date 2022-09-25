@@ -1,6 +1,5 @@
 computer-graphics-mini-project
 # Computer Graphics Project 
-============================
 
 Description
 ------------
