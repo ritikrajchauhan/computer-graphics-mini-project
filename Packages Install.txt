@@ -1,0 +1,14 @@
+You will have to place the file in front of any -l options , here for an example:
+
+g++ X.cpp -lX11 -lGL -lGLU -lglut -g -Wall -O2 -o X
+
+Also make sure the following packages is already present:
+
+sudo apt-get install mesa-common-dev libgl1-mesa-dev libglu1-mesa-dev freeglut3-dev
+
+And ensure glx module is loaded in Xorg
+
+Section "Module"
+    Load "glx"
+EndSection
+Good luck with OpenGL programming !
