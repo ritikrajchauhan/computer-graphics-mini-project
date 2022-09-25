@@ -9,7 +9,7 @@ disposal, this is one of those “easy to learn, difficult to master” situatio
 select a plane and a scene. Click once to start make your little guy take off from an
 airport, and it’s on!!
 
-As you fly, right click to begin ascending; the plane descends automatically. So it’s
+As you fly, left click to begin ascending; the plane descends automatically. So it’s
 critical to master this bouncy method of flying.<br/>
 Missiles of varying sizes are shot at you. So, you’ll spend most of your time avoiding
 these. Keep a close eye at the fuel gauge! You’ll steadily be running out of fuel as you
