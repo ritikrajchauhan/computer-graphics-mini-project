@@ -17,7 +17,7 @@ try to gain height. Hit a missile, run out of fuel, or fly into the bottom edge 
 screen, and you’ll crash and burn!
 
 As far as the game interface is concerned, you’ll be greeted with a loading screen
-followed by a splash screen with the name of the developers.
+followed by a splash screen with the name of the developers.<br/>
 You’ll then see a menu with screen with the following items:<br/>
 • Play<br/>
 • Settings<br/>
